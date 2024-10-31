@@ -35,11 +35,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
+Deploy: https://dev-links-daviaalves.vercel.app/
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/design/au2uSPYiSX1LbD6stxjfwY/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?node-id=10-620&node-type=canvas&t=WbLIvqjWdkSByQMT-0>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-##  Licença
+## Licença
 
 Esse projeto está sob a licença MIT.
 
